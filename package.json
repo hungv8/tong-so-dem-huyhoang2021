@@ -1,9 +1,27 @@
 {
-  "name": "@daominhhiep/tea-xyz-quest",
-  "version": "1.0.0",
-  "description": "Quest for tea.xyz",
+  "name": "tong-so-dem-huyhoang2021",
+  "version": "1.0.3",
+  "description": "huyhoang2021",
   "main": "index.js",
-  "author": "@daominhhiep",
-  "repository": "https://github.com/daominhhiep/tea-xyz-quest.git",
-  "license": "ISC"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungv8/tong-so-dem-huyhoang2021.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "huyhoang2021",
+  "license": "ISC",
+  "dependencies": {
+    "@lananhxcnm130/lananh-async-storage": "0.0.1",
+    "tinhdv-face-api.js": "0.22.5",
+    "timsolonnhat-huyhoang2021": "1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/hungv8/tong-so-dem-huyhoang2021/issues"
+  },
+  "homepage": "https://github.com/hungv8/tong-so-dem-huyhoang2021#readme"
 }
